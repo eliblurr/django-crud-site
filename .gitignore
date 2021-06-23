@@ -1,0 +1,11 @@
+venv/
+.history/
+*.pyc
+*.db
+*.sqlite3
+*.log
+__pycache__/
+.env
+*.png
+*.jpeg
+*.jpg
